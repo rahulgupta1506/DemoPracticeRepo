@@ -7,7 +7,8 @@ public class LoginTest {
 	@Test
 	public void test1()
 	{
-		 System.out.println("test1 login method");
+		 System.out.println("test1 login method1");
+		 System.out.println("test1 login method2");
 	}
 	
 }
